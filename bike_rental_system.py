@@ -42,12 +42,12 @@ def bikeshop_interface(action, quantity):
 
 bikeshop = Bikeshop(100)
 
-# Create Gradio Interface
+
 iface = gr.Interface(fn=bikeshop_interface, 
                       inputs=[gr.Dropdown(["Display Bike", "Rent Bike", "Return Bike", "View Rental History"], label="Action"),
                               gr.Number(label="Quantity")],
                       outputs="text",
                       title="Bikeshop")
 
-# Launch interface
+
 iface.launch()

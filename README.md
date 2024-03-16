@@ -2,7 +2,7 @@
 
 This is a simple Python program for managing a bike rental system. Users can view available bikes, rent bikes, and exit the system.
 
-![Bike Rental System](/A%20Bike%20Rental%20System/assets/rental.png)
+![Bike Rental System](/assets/rental.png)
 
 ## Usage
 
@@ -14,15 +14,10 @@ This is a simple Python program for managing a bike rental system. Users can vie
 
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/mustafaansarii/PythonVerse.git
+    git clone https://github.com/mustafaansarii/A-Bike-Rental-System
     ```
 
-2. Navigate to the project directory:
-    ```bash
-    cd PythonVerse/A Bike Rental System
-    ```
-
-3. Run the Python script:
+2. Run the Python script:
     ```bash
     python A Bike Rental System.py
     ```

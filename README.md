@@ -1,6 +1,6 @@
 # A Bike Rental System
 
-![UI Image](ui_image.png)
+![UI Image](/assets/display%20bike.png)
 
 ## Overview
 

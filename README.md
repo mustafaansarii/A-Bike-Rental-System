@@ -51,16 +51,16 @@ This project is a bike rental system implemented in Python. It provides a simple
 
 ## Screenshots
 
-![Display Bike](/assets/display.png)
+![Display Bike](/assets/display%20bike.png)
 *Display available bikes*
 
-![Rent Bike](/assets/rent.png)
+![Rent Bike](/assets/rent%20bike.png)
 *Rent bikes*
 
-![Return Bike](/assets/return.png)
+![Return Bike](/assets/return%20bike.png)
 *Return bikes*
 
-![View Rental History](/assets/history.png)
+![View Rental History](/assets/history%20of%20bike.png)
 *View rental history*
 
 ## Contributing
